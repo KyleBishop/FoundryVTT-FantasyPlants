@@ -29,6 +29,9 @@ Roll tables and plants are included as compendiums. Open up the roll table and s
 * Paste the following link into the "Manifest URL" field at the bottom: https://github.com/KyleBishop/FoundryVTT-FantasyPlants/releases/download/1.0.0/module.json
 * Click Install
 
+**Foundry 0.7.x:**
+* Install the "Better Rolltables" module
+
 
 # Suggested Use #
 I currently use this in my campaign to allow players to forage. If you use the included roll tables for the region(s) they are in, you can select the Generate Loot button on the table, it will create a new instance of the item on the Actor "Found Plants" in the Actors tab (it will create that loot actor if you don't have it already). 
